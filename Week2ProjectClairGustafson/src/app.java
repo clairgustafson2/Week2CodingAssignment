@@ -14,7 +14,7 @@ public class app {
 		System.out.println(5 >= 4 && 1 > 3);
 		System.out.println(10 < 4 || 1 > 4);
 		System.out.println(12 >= 2 && 1 < 24);
-		//“Hello”.charAt(0) == ‘h’ Having issues with this line of code
+		System.out.println("Hello".charAt(0) == 'h');
 		
 		// Step 2. Boolean variables
 		Boolean itIsHotOutside = true;
