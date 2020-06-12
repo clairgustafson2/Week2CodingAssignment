@@ -16,6 +16,8 @@ public class app {
 		System.out.println(12 >= 2 && 1 < 24);
 		System.out.println("Hello".charAt(0) == 'h');
 		
+		System.out.println();
+		
 		// Step 2. Boolean variables
 		Boolean itIsHotOutside = true;
 		Boolean isWeekday = true;
@@ -24,6 +26,8 @@ public class app {
 		System.out.println(isWeekday);
 		System.out.println(hasMoneyInPocket);
 		
+		System.out.println();
+		
 		//Step 3. Create variables
 		double costOfMilk = 4.89;
 		double moneyInWallet = 19.34;
@@ -31,6 +35,8 @@ public class app {
 		System.out.println(costOfMilk);
 		System.out.println(moneyInWallet);
 		System.out.println(thirstLevel);
+		
+		System.out.println();
 		
 		//Step 4. Create variables for the following scenarios
 		boolean shouldBuyIcecream = itIsHotOutside && hasMoneyInPocket;
